@@ -404,7 +404,6 @@ def output_gnuplot(image_name, nb_days, result_list):
 def main():
     """Here we choose what to do upon the command line's options.
     """
-
     # Parsing options
     my_opts = Options()
 
