@@ -252,7 +252,7 @@ def print_stats(nb_days, stats, name_list):
         print('Module %s :' % name)
 
 
-        print(' List of users and their machines:\n  user@machine:\n   %s' %user_at_machine)
+        print(' List of users:\n  user@machine:\n   %s' %user_at_machine)
 
         print(' Number of users per day :')
         print('  max : %d (%s)' % (max_users, max_day))
