@@ -1,0 +1,97 @@
+11:58:22 (lmgrd) -----------------------------------------------
+11:58:22 (lmgrd)   Please Note:
+11:58:22 (lmgrd) 
+11:58:22 (lmgrd)   This log is intended for debug purposes only.
+11:58:22 (lmgrd)   In order to capture accurate license
+11:58:22 (lmgrd)   usage data into an organized repository,
+11:58:22 (lmgrd)   please enable report logging. Use Flexera's
+11:58:22 (lmgrd)   software license administration  solution,
+11:58:22 (lmgrd)   FlexNet Manager, to  readily gain visibility
+11:58:22 (lmgrd)   into license usage data and to create
+11:58:22 (lmgrd)   insightful reports on critical information like
+11:58:22 (lmgrd)   license availability and usage. FlexNet Manager
+11:58:22 (lmgrd)   can be fully automated to run these reports on
+11:58:22 (lmgrd)   schedule and can be used to track license
+11:58:22 (lmgrd)   servers and usage across a heterogeneous
+11:58:22 (lmgrd)   network of servers including Windows NT, Linux
+11:58:22 (lmgrd)   and UNIX.
+11:58:22 (lmgrd) 
+11:58:22 (lmgrd) -----------------------------------------------
+11:58:22 (lmgrd) 
+11:58:22 (lmgrd) 
+11:58:22 (lmgrd) Server's System Date and Time: Sun Mar 21 2021 11:58:22 W. Europe Standard Time
+11:58:22 (lmgrd) pid 10268
+11:58:22 (lmgrd) SLOG: Summary LOG statistics is enabled.
+11:58:22 (lmgrd) Done rereading
+11:58:22 (lmgrd) FlexNet Licensing (v11.16.4.0 build 252457 x64_n6) started on deesswaschkor04 (IBM PC) (3/21/2021)
+11:58:22 (lmgrd) Copyright (c) 1988-2019 Flexera. All Rights Reserved.
+11:58:22 (lmgrd) World Wide Web:  http://www.flexerasoftware.com
+11:58:22 (lmgrd) License file(s): D:\FlexLM11\licenses\ugslmd_deesswaschkor04_24-Sep-2020.lic
+11:58:22 (lmgrd) lmgrd tcp-port 28000
+11:58:22 (lmgrd) (@lmgrd-SLOG@) ===============================================
+11:58:22 (lmgrd) (@lmgrd-SLOG@) === LMGRD ===
+11:58:22 (lmgrd) (@lmgrd-SLOG@) Start-Date: Sun Mar 21 2021 11:58:22 W. Europe Standard Time
+11:58:22 (lmgrd) (@lmgrd-SLOG@) PID: 10268
+11:58:22 (lmgrd) (@lmgrd-SLOG@) LMGRD Version: v11.16.4.0 build 252457 x64_n6 ( build 252457 (ipv6))
+11:58:22 (lmgrd) (@lmgrd-SLOG@) 
+11:58:22 (lmgrd) (@lmgrd-SLOG@) === Network Info ===
+11:58:22 (lmgrd) (@lmgrd-SLOG@) Listening port: 28000
+11:58:22 (lmgrd) (@lmgrd-SLOG@) 
+11:58:22 (lmgrd) (@lmgrd-SLOG@) === Startup Info ===
+11:58:22 (lmgrd) (@lmgrd-SLOG@) Is LS run as a service: Yes
+11:58:22 (lmgrd) (@lmgrd-SLOG@) Server Configuration: Single Server
+11:58:22 (lmgrd) (@lmgrd-SLOG@) Command-line options used at LS startup: -c D:\FlexLM11\licenses -l D:\FlexLM11\splm_ugslmd.log -z -s 
+11:58:22 (lmgrd) (@lmgrd-SLOG@) License file(s) used:  D:\FlexLM11\licenses\ugslmd_deesswaschkor04_24-Sep-2020.lic
+11:58:22 (lmgrd) (@lmgrd-SLOG@) ===============================================
+11:58:22 (lmgrd) SLOG: FNPLS-INTERNAL-VL1-4096
+11:58:22 (lmgrd) Starting vendor daemons ... 
+11:58:22 (lmgrd) Started ugslmd (pid 22096)
+11:58:22 (ugslmd) FlexNet Licensing version v11.16.4.0 build 252457 x64_n6
+11:58:22 (ugslmd) SLOG: Summary LOG statistics is enabled.
+11:58:22 (ugslmd) SLOG: FNPLS-INTERNAL-CKPT1
+11:58:22 (ugslmd) SLOG: VM Status: 0
+11:58:22 (ugslmd) SLOG: FNPLS-INTERNAL-CKPT5
+11:58:22 (ugslmd) SLOG: TPM Status: 0
+11:58:22 (ugslmd) SLOG: FNPLS-INTERNAL-CKPT6
+11:58:22 (ugslmd) Server started on deesswaschkor04 for:	clean_borrowing 
+11:58:22 (ugslmd) solidedge2ddraftingm deesswaschkor04 waschkor	
+11:58:22 (ugslmd) internal_license server_id	borrowing	
+11:58:22 (ugslmd) 
+11:58:22 (ugslmd) Licenses are case sensitive for ugslmd
+11:58:22 (ugslmd) 
+11:58:22 (ugslmd) EXTERNAL FILTERS are OFF
+11:58:22 (lmgrd) ugslmd using TCP-port 50021
+11:58:22 (ugslmd) SLOG: Statistics Log Frequency is 240 minute(s).
+11:58:22 (ugslmd) SLOG: TS update poll interval is 600 seconds.
+11:58:22 (ugslmd) SLOG: Activation borrow reclaim percentage is 0.
+11:58:22 (ugslmd) (@ugslmd-SLOG@) ===============================================
+11:58:22 (ugslmd) (@ugslmd-SLOG@) === Vendor Daemon ===
+11:58:22 (ugslmd) (@ugslmd-SLOG@) Vendor daemon: ugslmd
+11:58:22 (ugslmd) (@ugslmd-SLOG@) Start-Date: Sun Mar 21 2021 11:58:22 W. Europe Standard Time
+11:58:22 (ugslmd) (@ugslmd-SLOG@) PID: 22096
+11:58:22 (ugslmd) (@ugslmd-SLOG@) VD Version: v11.16.4.0 build 252457 x64_n6 ( build 252457 (ipv6))
+11:58:22 (ugslmd) (@ugslmd-SLOG@) 
+11:58:22 (ugslmd) (@ugslmd-SLOG@) === Startup/Restart Info ===
+11:58:22 (ugslmd) (@ugslmd-SLOG@) Options file used: None
+11:58:22 (ugslmd) (@ugslmd-SLOG@) Is vendor daemon a CVD: No
+11:58:22 (ugslmd) (@ugslmd-SLOG@) Is FlexNet Licensing Service installed and compatible: No
+11:58:22 (ugslmd) (@ugslmd-SLOG@) FlexNet Licensing Service Version: -NA-
+11:58:22 (ugslmd) (@ugslmd-SLOG@) Is TS accessed: No
+11:58:22 (ugslmd) (@ugslmd-SLOG@) TS access time: -NA-
+11:58:22 (ugslmd) (@ugslmd-SLOG@) Number of VD restarts since LS startup: 0
+11:58:22 (ugslmd) (@ugslmd-SLOG@) 
+11:58:22 (ugslmd) (@ugslmd-SLOG@) === Network Info ===
+11:58:22 (ugslmd) (@ugslmd-SLOG@) Listening port: 50021
+11:58:22 (ugslmd) (@ugslmd-SLOG@) Daemon select timeout (in seconds): 1
+11:58:22 (ugslmd) (@ugslmd-SLOG@) 
+11:58:22 (ugslmd) (@ugslmd-SLOG@) === Host Info ===
+11:58:22 (ugslmd) (@ugslmd-SLOG@) Host used in license file: deesswaschkor04
+11:58:22 (ugslmd) (@ugslmd-SLOG@) HostID node-locked in license file: 106530740e47 
+11:58:22 (ugslmd) (@ugslmd-SLOG@) HostID of the License Server: "106530740e47 30243264ddea 30243264ddeb 32243264ddea"
+11:58:22 (ugslmd) (@ugslmd-SLOG@) Running on Hypervisor: Not determined - treat as Physical
+11:58:22 (ugslmd) (@ugslmd-SLOG@) ===============================================
+12:49:39 (ugslmd) TCP_NODELAY NOT enabled
+12:49:39 (ugslmd) OUT: "solidedge2ddraftingm" waschkor@deesswaschkor04  
+12:49:53 (ugslmd) IN: "solidedge2ddraftingm" waschkor@deesswaschkor04  
+12:49:3a9 (ugslmd) OUT: "solidedge2ddraftingm2" waschkor2@deesswaschkor04  
+12:49:5a3 (ugslmd) IN: "solidedge2ddraftingm2" waschkor2@deesswaschkor04  
